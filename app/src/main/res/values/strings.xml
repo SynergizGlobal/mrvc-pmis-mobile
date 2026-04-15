@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MRVC PMIS</string>
+    <string name="error_loading">Unable to load the page. Check your connection and try again.</string>
+    <string name="action_retry">Retry</string>
+</resources>
