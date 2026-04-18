@@ -3,4 +3,8 @@
     <string name="app_name">MRVC PMIS</string>
     <string name="error_loading">Unable to load the page. Check your connection and try again.</string>
     <string name="action_retry">Retry</string>
+    <string name="download_started">Download started</string>
+    <string name="download_in_progress">Downloading report...</string>
+    <string name="storage_permission_required">Storage permission is required to save downloads on this Android version.</string>
+    <string name="read_permission_required">File access permission is required to upload documents on this Android version.</string>
 </resources>
